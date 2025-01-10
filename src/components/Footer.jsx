@@ -6,12 +6,7 @@ const Footer = () => {
     <footer className="text-white py-4">
       <div className="flex flex-col justify-center items-center py-3">
         {" "}
-        <div className="border-t border-blue-500 w-2/4 mb-4"></div>
-        <h3 className="text-center">
-          Built and designed by{" "}
-          <span className="text-[#10B981]">Julker Nayeen Karim</span>
-        </h3>
-      </div>
+
 
       <div className="flex justify-center gap-6 text-blue-700">
         {/* Facebook Icon */}
